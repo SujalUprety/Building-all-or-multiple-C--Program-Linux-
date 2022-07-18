@@ -1,5 +1,14 @@
-# Building-all-C-program-Linux
-This program will build all the c programs in the current directory. It is very helpful especially for students who does tons of programming and gives headache coz of building one by one.
+# Building-all-or-multiple-C-Programs-Linux
+This program will build all, or only one or multiple C programs in the current directory.
+
+Here is the all the details of this program.
+
+But before this, let's make this program as a linux command.
+
+Copy paste this in terminal after going going into this program directory:
+```
+sudo cp build "//bin"
+```
 
 
 Usage: build [Option]... [Filename of c program]...[Filename to build program]...
