@@ -5,7 +5,7 @@ Here is the all the details of this program.
 
 But before this, let's make this program as a linux command.
 
-Copy paste this in terminal after going going into this program directory:
+Copy paste this in terminal after going into this program directory:
 ```
 sudo cp build "//bin"
 ```
